@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "list": "Belajar",
+      "status": false
+    },
+    {
+      "id": 2,
+      "list": "Pergi",
+      "status": false
+    }
+  ]
+}

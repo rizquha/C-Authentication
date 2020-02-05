@@ -1,0 +1,56 @@
+HTTP POST /user/login responded 200 in 1641.2636 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 11.220500000000001 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 6.2656 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 3.5687 ms
+HTTP GET /todo responded 200 in 326.1692 ms
+HTTP POST /login responded 404 in 0.1237 ms
+HTTP POST /user/login responded 200 in 37.1727 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 19.816000000000003 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 3.3726000000000003 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 4.0652 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 5.444500000000001 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 4.0675 ms
+HTTP GET /todo responded 200 in 26.764400000000002 ms
+HTTP GET /todo responded 200 in 14.324900000000001 ms
+HTTP GET /todo responded 200 in 15.4656 ms
+HTTP GET /todo responded 200 in 28.907500000000002 ms
+HTTP GET /todo responded 200 in 11.414900000000001 ms
+HTTP POST /user/login responded 200 in 8.9542 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 2.7505 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 2.0340000000000003 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 2.6661 ms
+HTTP POST /user/login responded 200 in 11.334000000000001 ms
+Serilog.Core.Pipeline.SilentLogger
+HTTP GET /todo responded 500 in 2.5152 ms
+HTTP POST /user/login responded 200 in 2081.7026 ms
+HTTP GET /todo responded 200 in 397.79080000000005 ms
+HTTP POST /user/login responded 200 in 40.9966 ms
+HTTP GET /todo responded 200 in 16.1564 ms
+HTTP POST /user/register responded 200 in 1084.4729 ms
+HTTP POST /user/login responded 200 in 157.11620000000002 ms
+HTTP GET /todo responded 200 in 86.71770000000001 ms
+HTTP GET /todo responded 200 in 11.687100000000001 ms
+HTTP DELETE /todo/clear/10 responded 404 in 0.09240000000000001 ms
+HTTP DELETE /todo/clear/11 responded 404 in 0.0086 ms
+HTTP POST /todo responded 200 in 85.8208 ms
+HTTP GET /todo responded 200 in 7.232600000000001 ms
+HTTP PATCH /todo/10 responded 200 in 23.6075 ms
+HTTP DELETE /todo/delete/10 responded 200 in 14.6645 ms
+HTTP PATCH /todo/done/11 responded 200 in 16.3355 ms
+HTTP GET /todo responded 200 in 5.0014 ms
+HTTP GET /todo responded 200 in 5.5319 ms
+HTTP DELETE /todo/clear/11 responded 404 in 0.023200000000000002 ms
+HTTP DELETE /todo/clear/12 responded 404 in 0.004200000000000001 ms
+HTTP GET /todo responded 200 in 7.5392 ms
+HTTP DELETE /todo/clear responded 200 in 18.5482 ms
